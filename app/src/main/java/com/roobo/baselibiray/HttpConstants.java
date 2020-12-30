@@ -10,7 +10,7 @@ import java.util.Set;
 
 public class HttpConstants {
 
-    public static final int TIMEOUT_DEFAULT = 90; //请求超时时间
+    public static final int TIMEOUT_DEFAULT = 180; //请求超时时间
 
     public static final int CODE_SUCCESS = 0;
     public static final int CODE_DEFAULT_ERROR = -1;
