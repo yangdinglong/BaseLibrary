@@ -9,6 +9,10 @@ import java.util.Set;
  */
 
 public class HttpConstants {
+	
+		    public static final int TIMEOUT_DEFAULT2 = 180; //请求超时时间
+	
+	    public static final int TIMEOUT_DEFAULT1 = 180; //请求超时时间
 
     public static final int TIMEOUT_DEFAULT = 180; //请求超时时间
 
