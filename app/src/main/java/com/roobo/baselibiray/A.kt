@@ -9,4 +9,5 @@ fun test(any: Any?) {
 fun test1(any: Any?) {
     val string = any as? String
     string?.length;
+
 }
