@@ -45,3 +45,8 @@ fun test8(any: Any?) {
     val string = any as? String
     string?.length;
 }
+
+fun test9(any: Any?) {
+    val string = any as? String
+    string?.length;
+}
