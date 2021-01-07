@@ -35,3 +35,13 @@ fun test6(any: Any?) {
     val string = any as? String
     string?.length;
 }
+
+fun test7(any: Any?) {
+    val string = any as? String
+    string?.length;
+}
+
+fun test8(any: Any?) {
+    val string = any as? String
+    string?.length;
+}
