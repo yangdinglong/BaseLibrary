@@ -128,4 +128,11 @@ public class HttpConstants {
         return buffer.toString();
     }
 
+    public void test(Object object){
+        if(object instanceof String){
+            String string= (String) object;
+            string.length();
+        }
+    }
+
 }
