@@ -1,10 +1,24 @@
 package com.roobo.baselibiray
 
-class BActivity {
-    fun test3() {
 
-    }
-    fun test4() {
+val string: String? = null
 
-    }
+fun test() {
+  dafdsafsf
+}
+
+fun test1() {
+
+}
+
+fun test2() {
+
+}
+
+fun test3() {
+
+}
+
+fun test3222() {
+
 }
