@@ -11,6 +11,11 @@ public class AActivity extends Activity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        String it=null;
+        if(it==null||it instanceof String){
+
+        }
+
 
     }
 }

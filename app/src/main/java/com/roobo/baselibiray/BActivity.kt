@@ -22,3 +22,11 @@ fun test3() {
 fun test3222() {
 
 }
+
+fun test3222() {
+
+}
+
+fun test3222() {
+
+}
